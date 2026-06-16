@@ -25,3 +25,25 @@ print("Average Rating:", average)
 highest = max(ratings)
 
 print("Highest Rating:", highest)
+
+Description:
+          Movie Rating Analysis
+
+Objective:
+The objective of Movie Rating Analysis is to analyze movie data and ratings to identify patterns that influence audience preferences and movie success. It helps understand how factors such as genre, cast, director, budget, and release year affect ratings.
+
+Overview:
+This project involves collecting and analyzing movie datasets containing ratings, reviews, and movie attributes. Through data cleaning, visualization, and statistical analysis, meaningful insights are extracted to evaluate movie performance and audience trends.
+
+Technologies Used:
+* Python
+
+
+Key Features:
+
+* Data preprocessing and cleaning
+* Rating distribution analysis
+* Genre-wise and year-wise rating comparison
+* Visualization of trends using charts and graphs
+* Correlation analysis between movie attributes and ratings
+* Insights generation for decision-making
